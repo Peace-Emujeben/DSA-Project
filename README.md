@@ -12,8 +12,8 @@ The Primary source of data used was downloaded from DSA LMS
 ### Tool Used
 - Ms Excel for Amazon Product Review
     - For Data cleaning
-    - For Pivoting and Analysing
+    - Excel Pivot dashboard was used for Analysing product sales, reviews, and discounts
 - SQL Server for Kultra Mega Stores Inventory
-    -  For Data
+
   ### Data Cleaning Preparing
-  For Amazon Product review data cleaning and preparation was done in the following way: Duplicates was removed, and the Category was splited, also Product name was Reduced also blanks found in Rating where replaced with zeros
+  For Amazon Product review, data cleaning and preparation was done in the following way: Duplicates was removed, and the Category was splited using (Delimiters) also Product name was Reduced also blanks found in Rating where replaced with zeros
